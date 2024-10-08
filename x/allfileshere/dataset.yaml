@@ -1,0 +1,6 @@
+path: C:\Users\HP\Desktop\mm\x\allfileshere  # root directory of the dataset
+train: images/train
+val: images/val
+test: images/test  # optional
+nc: 6  # number of classes
+names: ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']  # list of class names
